@@ -1,6 +1,7 @@
 # STUDY-Sales_Modeling
 
 > [ML 강의](https://github.com/Chaewon-Leee/TIL/tree/main/ML) 수강 이후, 모델링 과정을 진행해보고자 함
+
 > [전처리 과정을 거친 데이터](https://github.com/Chaewon-Leee/STUDY-Sales_Feature_Engineering) 활용
 
 ### 가게 매출액 예측 프로젝트
@@ -12,27 +13,9 @@
   - [Store Sales - Time Series Forecasting](https://www.kaggle.com/competitions/store-sales-time-series-forecasting/submissions)
 
   ```markdown
-
+  - all_of_df.csv : 데이터 전처리 이후, 어떠한 Feature Selection을 거치지 않은 데이터
+  - RFE_df.csv : 데이터 전처리 이후, FRE를 통해 Feature Selection을 거친 데이터
   ```
-
-# Kaggle Seminar - \***\*Store Sales\*\***
-
-![스크린샷 2023-01-19 오후 5.56.59.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/163db73f-678f-4164-96b2-2c8aaed2b603/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2023-01-19_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_5.56.59.png)
-
-[KaggleSeminar.ipynb](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/02b7410f-e76e-46e7-9f94-36c355447d02/KaggleSeminar.ipynb)
-
-### 가게 매출액 예측 프로젝트
-
-- Feature Engineering 이후, modeling 진행
-
-- **Data info**
-
-[Store Sales - Time Series Forecasting](https://www.kaggle.com/competitions/store-sales-time-series-forecasting/submissions)
-
-```markdown
-- all_of_df.csv : 데이터 전처리 이후, 어떠한 Feature Selection을 거치지 않은 데이터
-- RFE_df.csv : 데이터 전처리 이후, FRE를 통해 Feature Selection을 거친 데이터
-```
 
 - **절차**
 
