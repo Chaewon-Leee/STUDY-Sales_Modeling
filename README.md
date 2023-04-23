@@ -4,6 +4,8 @@
 
 > [전처리 과정을 거친 데이터](https://github.com/Chaewon-Leee/STUDY-Sales_Feature_Engineering) 활용
 
+- 기간 : 22.10.13 ~ 22.10.27
+
 ### 가게 매출액 예측 프로젝트
 
 - 애콰도르의 위치한 가게 품목별 매출액 예측
