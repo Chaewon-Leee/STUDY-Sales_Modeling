@@ -4,7 +4,7 @@
 
 > [전처리 과정을 거친 데이터](https://github.com/Chaewon-Leee/STUDY-Sales_Feature_Engineering) 활용
 
-- 기간 : 22.10.13 ~ 22.10.27
+- 기간 : 23.01.09 ~ 23.01.12
 
 ### 가게 매출액 예측 프로젝트
 
